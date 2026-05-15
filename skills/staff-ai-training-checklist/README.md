@@ -43,6 +43,6 @@ Create practical staff training checklists for safe AI use, data handling, appro
 
 This is a practical review tool, not legal advice, security certification, or compliance certification.
 
-## Berrysbay support
+## Berrysbay Labs support
 
-For teams who want a guided review, [Berrysbay](https://www.berrysbay.com) can help.
+For teams who want a guided review, [Berrysbay Labs](https://www.berrysbay.com) can help.

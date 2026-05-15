@@ -45,6 +45,6 @@ Review a screenshot for personal information, sensitive data, or identifying det
 
 This is a practical review tool, not legal advice, compliance certification, or a security certification.
 
-## Berrysbay support
+## Berrysbay Labs support
 
-For teams who want a guided review, [Berrysbay](https://www.berrysbay.com) can help.
+For teams who want a guided review, [Berrysbay Labs](https://www.berrysbay.com) can help.

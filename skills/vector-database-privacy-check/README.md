@@ -43,6 +43,6 @@ Review vector databases, embeddings, indexes, and semantic search systems for pr
 
 This is a practical review tool, not legal advice, security certification, or compliance certification.
 
-## Berrysbay support
+## Berrysbay Labs support
 
-For teams who want a guided review, [Berrysbay](https://www.berrysbay.com) can help.
+For teams who want a guided review, [Berrysbay Labs](https://www.berrysbay.com) can help.

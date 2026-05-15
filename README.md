@@ -102,7 +102,7 @@ These skills are educational and practical review tools. They are not legal advi
 
 ## About
 
-Created by [Berrysbay](https://
+Created by [Berrysbay Labs](https://
 
 - Vendor data sharing
 - Privacy incident first response
@@ -123,4 +123,6 @@ These skills are educational and practical review tools. They are not legal advi
 
 ## About
 
-Created by [Berrysbay](https://www.berrysbay.com) as part of an open-source effort to make privacy thinking more practical for teams building with AI, cloud tools, and sensitive data.
+Created by [Berrysbay Labs](https://www.berrysbay.com) as part of an open-source effort to make privacy thinking more practical for teams building with AI, cloud tools, and sensitive data.
+
+Berrysbay Labs focuses on AI data exposure, local-first and on-prem AI systems, and tools that help reduce sensitive information before it leaves a device or organisation.

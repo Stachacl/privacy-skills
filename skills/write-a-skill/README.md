@@ -14,7 +14,7 @@ Create new agent skills with proper structure, progressive disclosure, and clear
 2. Write a one-sentence description that tells an agent when to invoke the skill.
 3. Draft the SKILL.md with: frontmatter, quick start, workflow, checklist, output format, and disclaimer.
 4. Keep SKILL.md under 100 lines where possible.
-5. Draft the README.md with: skill name, summary, when to use, checklist, examples, related skills, related questions, disclaimer, and Berrysbay CTA.
+5. Draft the README.md with: skill name, summary, when to use, checklist, examples, related skills, related questions, disclaimer, and Berrysbay Labs CTA.
 6. Check that the description in SKILL.md frontmatter includes "Use when..." with specific triggers.
 7. Check that the checklist is numbered and actionable.
 8. Check that related skills and related questions link to existing files in the project.
@@ -41,6 +41,6 @@ Create new agent skills with proper structure, progressive disclosure, and clear
 
 This is a practical review tool, not legal advice, security certification, or compliance certification.
 
-## Berrysbay support
+## Berrysbay Labs support
 
-For teams who want a guided review, [Berrysbay](https://www.berrysbay.com) can help.
+For teams who want a guided review, [Berrysbay Labs](https://www.berrysbay.com) can help.

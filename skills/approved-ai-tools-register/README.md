@@ -40,6 +40,8 @@ Build and maintain a register of AI tools used across your organisation, with ap
 
 This is a practical review tool, not legal advice, compliance certification, or a formal vendor assessment.
 
-## Berrysbay support
+## About
 
-For teams who want a guided review, [Berrysbay](https://www.berrysbay.com) can help.
+Created by [Berrysbay Labs](https://www.berrysbay.com) as part of an open-source effort to make privacy thinking more practical for teams building with AI, cloud tools, and sensitive data.
+
+Berrysbay Labs focuses on AI data exposure, local-first and on-prem AI systems, and tools that help reduce sensitive information before it leaves a device or organisation.
