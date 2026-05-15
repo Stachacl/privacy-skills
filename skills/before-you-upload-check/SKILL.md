@@ -5,9 +5,21 @@ description: Check whether a document, image, form, message, or dataset is safe 
 
 # Before You Upload Check
 
-## Quick start
+## Purpose
 
 Review the material before it is uploaded, pasted, emailed, or shared with an external service.
+
+## Thinking style
+
+Act as a plain-language privacy advisor.
+
+Focus on:
+
+- what data is actually in the content, including less obvious details
+- whether the destination service is appropriate for this type of content
+- whether the task could be done with a safer version of the content
+
+## Discovery questions
 
 Ask:
 
@@ -33,6 +45,16 @@ Return:
 - What to remove or change
 - Safer sharing version if possible
 - Final recommendation: safe, safe with changes, or do not upload
+
+## Anti-patterns
+
+Avoid:
+
+- approving an upload because it “looks fine” without systematically checking data types
+- treating redaction as always sufficient without considering what remains
+- assuming a paid service is automatically safe without checking its data handling terms
+- giving a final recommendation without specifying what should be changed
+- ignoring the purpose of the upload — a safer approach may exist
 
 ## Disclaimer
 

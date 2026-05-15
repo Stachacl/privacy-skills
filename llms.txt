@@ -1,0 +1,120 @@
+# Privacy Skills
+
+> Open-source agent skills for checking privacy risks before sensitive data is uploaded, shared, logged, automated, or used with AI.
+
+## What is Privacy Skills?
+
+Privacy Skills is a collection of open-source agent skill definitions for GitHub Copilot and compatible AI tools. Each skill guides an AI agent through a practical, plain-language privacy review for a specific topic.
+
+The project is built and maintained by Berrysbay (https://www.berrysbay.com).
+
+## Who it helps
+
+- Individuals who want to check whether something is safe to upload, share, or post
+- Teams building AI governance, policies, and training
+- Developers and architects reviewing systems, APIs, logs, and AI integrations for privacy risks
+
+## Main topics covered
+
+- AI data exposure and ChatGPT privacy
+- Uploading documents and content to AI tools
+- Screenshot and photo privacy
+- Meeting recording and AI note-taker risks
+- Email and cloud sharing privacy
+- Staff AI use policy and governance
+- Approved AI tools register and shadow AI
+- Vendor and contractor data sharing
+- Privacy incident first response
+- Application logging and observability PII
+- API and webhook privacy
+- RAG systems and vector database privacy
+- Prompt injection risks
+- Data minimisation and retention
+- Privacy by design
+- Form and data collection review
+- OAuth scope minimisation
+- Third-party SDK and integration review
+
+## Where skills live
+
+Each skill is in `skills/[skill-name]/SKILL.md`.
+
+The agent instruction file is `skills/[skill-name]/SKILL.md`.
+The human-readable summary is `skills/[skill-name]/README.md`.
+
+### Everyday privacy skills
+- skills/before-you-upload-check/
+- skills/screenshot-privacy-check/
+- skills/form-privacy-check/
+- skills/safe-sharing-version/
+- skills/minimum-data-needed/
+- skills/ai-upload-decision-check/
+- skills/meeting-recording-privacy-check/
+- skills/public-case-study-sanitiser/
+- skills/email-privacy-check/
+- skills/linkedin-post-privacy-check/
+- skills/cloud-storage-sharing-check/
+- skills/ai-meeting-notes-check/
+- skills/photo-metadata-privacy-check/
+
+### Team and governance skills
+- skills/ai-data-exposure-check/
+- skills/sensitive-document-workflow-review/
+- skills/data-flow-mapping/
+- skills/governance-framework-builder/
+- skills/safe-ai-use-policy-builder/
+- skills/approved-ai-tools-register/
+- skills/privacy-incident-first-response/
+- skills/vendor-data-sharing-review/
+- skills/contractor-data-access-review/
+- skills/ai-tool-onboarding-privacy-check/
+- skills/data-retention-policy-builder/
+- skills/privacy-impact-assessment-starter/
+- skills/staff-ai-training-checklist/
+
+### Developer and architecture skills
+- skills/logging-privacy-review/
+- skills/ai-rag-privacy-review/
+- skills/api-privacy-review/
+- skills/privacy-by-design-review/
+- skills/architecture-privacy-review/
+- skills/data-minimisation-review/
+- skills/privacy-risk-review/
+- skills/prompt-injection-privacy-review/
+- skills/vector-database-privacy-check/
+- skills/third-party-sdk-data-review/
+- skills/observability-pii-audit/
+- skills/oauth-scope-minimisation/
+- skills/webhook-privacy-review/
+
+## Where question docs live
+
+Question-based documentation is in `docs/`:
+
+- docs/index.md — full index of skills and questions
+- docs/everyday/ — questions for individuals and everyday use
+- docs/teams/ — questions for managers and governance teams
+- docs/developers/ — questions for engineers and architects
+
+### Everyday questions
+- docs/everyday/can-i-upload-this-to-ai.md
+- docs/everyday/what-should-i-blur-in-a-screenshot.md
+- docs/everyday/should-this-meeting-be-recorded.md
+
+### Team questions
+- docs/teams/how-to-build-an-ai-use-policy.md
+- docs/teams/how-to-manage-shadow-ai.md
+- docs/teams/what-to-do-if-data-was-emailed-by-mistake.md
+
+### Developer questions
+- docs/developers/are-we-logging-pii.md
+- docs/developers/how-do-embeddings-expose-sensitive-documents.md
+- docs/developers/does-our-api-return-too-much-data.md
+
+## Important note
+
+These skills are educational and practical review tools. They are not legal advice, security certification, or a replacement for professional privacy, legal, or security review.
+
+## About
+
+Berrysbay website: https://www.berrysbay.com

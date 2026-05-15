@@ -5,11 +5,31 @@ description: Rewrite messages, documents, examples, screenshots, or case studies
 
 # Safe Sharing Version
 
-## Quick start
+## Purpose
 
 Transform content into a safer version for sharing.
 
 Preserve the useful meaning while reducing unnecessary exposure.
+
+## Thinking style
+
+Act as a plain-language privacy advisor.
+
+Focus on:
+
+- identifying what is identifying about the content, not just what is obviously sensitive
+- preserving the value of the content while removing what is not needed
+- checking whether the combination of remaining details still identifies someone
+
+## Discovery questions
+
+Ask:
+
+1. Where is this content going — LinkedIn, a website, a vendor email, a support ticket, a public report?
+2. Who are the people or organisations described — have they consented to being included?
+3. Is there a safer version of this task that avoids sharing the content at all?
+4. What is the minimum the recipient actually needs to receive?
+5. Was this content originally created for internal use?
 
 ## What to remove or generalise
 
@@ -41,6 +61,16 @@ Return:
 - Safer rewritten version
 - Notes on what was changed
 - Remaining risks if any
+
+## Anti-patterns
+
+Avoid:
+
+- removing names while leaving combinations of details that still identify people
+- treating generalisation as automatically safe without checking what the generalised version still reveals
+- rewriting content without noting what was changed and why
+- approving sharing when the safer option is not sharing at all
+- ignoring the destination — the same content may be safe for a secure internal tool but not for a public post
 
 ## Disclaimer
 
