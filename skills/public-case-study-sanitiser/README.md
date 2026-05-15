@@ -43,6 +43,8 @@ Convert internal examples, customer stories, incidents, or project notes into pr
 
 This is a practical review tool, not legal advice, compliance certification, or a substitute for customer permission or legal review before publishing.
 
-## Berrysbay support
+## About
 
-For teams who want a guided review, [Berrysbay](https://www.berrysbay.com) can help.
+Created by [Berrysbay Labs](https://www.berrysbay.com) as part of an open-source effort to make privacy thinking more practical for teams building with AI, cloud tools, and sensitive data.
+
+Berrysbay Labs focuses on AI data exposure, local-first and on-prem AI systems, and tools that help reduce sensitive information before it leaves a device or organisation.

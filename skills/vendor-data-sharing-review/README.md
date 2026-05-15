@@ -44,6 +44,6 @@ Review what data is being shared with a vendor, consultant, SaaS tool, or AI ser
 
 This is a practical review tool, not legal advice, compliance certification, or a substitute for legal review of vendor contracts.
 
-## Berrysbay support
+## Berrysbay Labs support
 
-For teams who want a guided review, [Berrysbay](https://www.berrysbay.com) can help.
+For teams who want a guided review, [Berrysbay Labs](https://www.berrysbay.com) can help.

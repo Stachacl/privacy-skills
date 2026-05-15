@@ -6,7 +6,7 @@
 
 Privacy Skills is a collection of open-source agent skill definitions for GitHub Copilot and compatible AI tools. Each skill guides an AI agent through a practical, plain-language privacy review for a specific topic.
 
-The project is built and maintained by Berrysbay (https://www.berrysbay.com).
+The project is built and maintained by Berrysbay Labs (https://www.berrysbay.com).
 
 ## Who it helps
 
@@ -117,4 +117,4 @@ These skills are educational and practical review tools. They are not legal advi
 
 ## About
 
-Berrysbay website: https://www.berrysbay.com
+Berrysbay Labs website: https://www.berrysbay.com
