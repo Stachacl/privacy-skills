@@ -4,6 +4,10 @@ Open-source agent skills for checking privacy risks before sensitive data is upl
 
 These skills help people ask better privacy questions across everyday work, team governance, and software architecture. They are practical review tools, not legal advice.
 
+## Working with frameworks
+
+- [NSW, Australia AI Assessment Framework] (skills/nsw-ai-assessment-framework/README.md) - AIAF
+
 ## Everyday privacy skills
 
 Useful for anyone handling documents, photos, messages, or meetings.
